@@ -12,7 +12,7 @@ This project is a simple x86 bootloader written in 16-bit Assembly that displays
 ```bash
 nasm -f bin boot.asm -o helloos.img
 qemu-system-x86_64 -drive format=raw,file=helloos.img
-
+```
 
 ## 🛠 Tools Used
 - NASM (Assembly compiler)
