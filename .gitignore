@@ -1,0 +1,30 @@
+# OS Dev - Bootloader Project
+
+# Compiled binaries and disk images
+*.img
+*.bin
+*.o
+*.out
+*.iso
+*.exe
+
+# Build artifacts and logs
+*.map
+*.lst
+*.log
+*.tmp
+
+# Editor and system files
+*.swp
+*.swo
+*.swn
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+
+# Optional: build/ or dist/ folders if you add them later
+build/
+dist/
